@@ -21,7 +21,8 @@ Species
 ![casent0906296](images/casent0906296_p_1_high_cataglyphis_fortis.jpg)
 
 #### Data 
-##### Field Season 2013
+- Field Season 2013
+
 Species: DM			
 |Date |Collected|	Plot|	Sex	Weight|
 |---|---|---|---|
@@ -34,7 +35,8 @@ Species: DM
 |7/18/13|	4|	F|	29g|
 |7/18/13|	6|	F|	37g|
 
-##### Field Season 2014
+- Field Season 2014
+
 Plot 1
 | Date collected | Species | Sex | Weight |
 |---|---|---|---|
