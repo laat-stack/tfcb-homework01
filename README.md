@@ -5,7 +5,7 @@
 ### README with Markdown formatting
 
 Click the following link for the github repository with the images, data, and code
-[_https://github.com/laat-stack/tfcb-homework01_]
+(_https://github.com/laat-stack/tfcb-homework01_)
 
 Species
 - *Rhytidoponera metallica*
