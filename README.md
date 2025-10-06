@@ -1,10 +1,10 @@
-#Homework01
+# Homework01
 
-##Problem 5
+## Problem 5
 
-###README with Markdown formatting
+### README with Markdown formatting
 
-Click the following link for the githun repository with the images, data, and code
+Click the following link for the github repository with the images, data, and code
 [_https://github.com/laat-stack/tfcb-homework01_]
 
 Species
