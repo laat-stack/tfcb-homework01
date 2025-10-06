@@ -20,7 +20,21 @@ Species
 - *Cataglyphis fortis*
 ![casent0906296](images/casent0906296_p_1_high_cataglyphis_fortis.jpg)
 
-#### Data Field Season 2014
+#### Data 
+##### Field Season 2013
+Species: DM			
+|Date |Collected|	Plot|	Sex	Weight|
+|---|---|---|---|
+|7/16/13|	2|	F|	|
+|7/16/13|	7|	M|	33g|
+|7/16/13|	3|	M|	|
+|7/16/13|	1|	M||	
+|7/18/13|	3|	M|	40g|
+|7/18/13|	7|	M|	48g|
+|7/18/13|	4|	F|	29g|
+|7/18/13|	6|	F|	37g|
+
+##### Field Season 2014
 Plot 1
 | Date collected | Species | Sex | Weight |
 |---|---|---|---|
