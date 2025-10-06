@@ -24,24 +24,24 @@ Species
 - Field Season 2013
 
 Species: DM			
-|Date |Collected|	Plot|	Sex	Weight|
+|date_collected|	plot|	sex|	weight|
 |---|---|---|---|
-|7/16/13|	2|	F|	|
-|7/16/13|	7|	M|	33g|
-|7/16/13|	3|	M|	|
-|7/16/13|	1|	M||	
-|7/18/13|	3|	M|	40g|
-|7/18/13|	7|	M|	48g|
-|7/18/13|	4|	F|	29g|
-|7/18/13|	6|	F|	37g|
+|7/16/13|	2|	f|	|
+|7/16/13|	7|	m|	33g|
+|7/16/13|	3|	m|	|
+|7/16/13|	1|	m||	
+|7/18/13|	3|	m|	40g|
+|7/18/13|	7|	m|	48g|
+|7/18/13|	4|	f|	29g|
+|7/18/13|	6|	f|	37g|
 
 - Field Season 2014
 
 Plot 1
-| Date collected | Species | Sex | Weight |
+| date_collected | species | sex | weight |
 |---|---|---|---|
-| 1/9/14	| DM | M | 40 |
-| 1/9/14	| DM | F | 36 |
-| 3/13/14 | DM | F | 51 |
-| 3/13/14 | DM | F | 44 |
-| 3/13/14 | DS | F | 146 |
+| 1/9/14	| dm | m | 40 |
+| 1/9/14	| dm | f | 36 |
+| 3/13/14 | dm | f | 51 |
+| 3/13/14 | dm | f | 44 |
+| 3/13/14 | ds | f | 146 |
