@@ -20,3 +20,12 @@ Species
 - *Cataglyphis fortis*
 ![casent0906296](images/casent0906296_p_1_high_cataglyphis_fortis.jpg)
 
+#### Data 
+Plot 1
+| Date collected | Species | Sex | Weight |
+|---|---|---|---|
+| 1/9/14	| DM | M | 40 |
+| 1/9/14	| DM | F | 36 |
+| 3/13/14 | DM | F | 51 |
+| 3/13/14 | DM | F | 44 |
+| 3/13/14 | DS | F | 146 |
